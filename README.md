@@ -39,4 +39,4 @@ workspace/output_models/
 ## Contact:  
 b-atmaja@aist.go.jp 
 
-[HuggingFace model](https://huggingface.co/Bagus/wav2vec2-large-xlsr-bahasa-indonesia)
+<!--[HuggingFace model](https://huggingface.co/Bagus/wav2vec2-large-xlsr-bahasa-indonesia)-->
