@@ -1,7 +1,7 @@
 # wav2vec2-indonesian
 
 ## Code based on:  
-- https://github.com/patil-suraj/wav2vec2-sprint with modification
+- https://github.com/patil-suraj/wav2vec2-sprint
 - https://github.com/galuhsahid/wav2vec2-indonesian
 
 ## Additional steps:  
