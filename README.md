@@ -43,5 +43,8 @@ workspace/output_models/
     └── vocab.json
 ~~~
 
+## WER (word error rate) on Test set:  
+- version 1 (using cv-corpus id v6.1): 19.3 %
+
 ## Demo
 [HuggingFace model](https://huggingface.co/Bagus/wav2vec2-large-xlsr-bahasa-indonesia)
