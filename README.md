@@ -43,7 +43,5 @@ workspace/output_models/
     └── vocab.json
 ~~~
 
-## Contact:  
-b-atmaja@aist.go.jp 
-
-<!--[HuggingFace model](https://huggingface.co/Bagus/wav2vec2-large-xlsr-bahasa-indonesia)-->
+## Demo
+[HuggingFace model](https://huggingface.co/Bagus/wav2vec2-large-xlsr-bahasa-indonesia)
