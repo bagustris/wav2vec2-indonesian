@@ -8,10 +8,14 @@
 ~~~
 mkdir -p workspace/output_models/wav2vec2-large-xlsr-indonesian
 mkdir -p workspace/data
-
 ~~~
 
-## Output Sample
+## To be run on abci.ai
+```bash
+qsub -g (groups | awk '{print $2}') runV-torch3.sh
+```
+
+## Output Sample Tree
 ~~~
 [aad13432ni@es2 ~]$ tree workspace/output_models/
 workspace/output_models/
@@ -31,9 +35,6 @@ workspace/output_models/
     ├── tokenizer_config.json
     └── vocab.json
 ~~~
-
-## To be run on abci.ai
-- qsub -g (groups | awk '{print $2}') runV-torch3.sh
 
 ## Contact:  
 b-atmaja@aist.go.jp 
