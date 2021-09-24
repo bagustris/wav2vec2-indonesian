@@ -1,0 +1,7 @@
+numpy==1.19.5
+datasets
+transformers
+torchaudio
+librosa==0.8.0
+jiwer==2.2.0
+lang-trans==0.6.0
