@@ -4,11 +4,18 @@
 - https://github.com/patil-suraj/wav2vec2-sprint
 - https://github.com/galuhsahid/wav2vec2-indonesian
 
+## Git clone
+~~~
+git clone git@github.com:bagustris/wav2vec2-indonesian.git /home/$USER/github/wav2vec2-indonesian
+~~~
+
 ## Additional steps:  
 ~~~
 mkdir -p workspace/output_models/wav2vec2-large-xlsr-indonesian
 mkdir -p workspace/data
+mkdir outV-torch3/
 ~~~
+
 
 ## To be run on abci.ai
 ```bash
